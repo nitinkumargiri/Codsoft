@@ -34,3 +34,4 @@ while True:
     
     result = determine_winner(player_choice, computer_choice)
     print(result)
+    GeneratorExit TabError J SystemExit hash StopIteration yield
